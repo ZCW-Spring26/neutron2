@@ -14,4 +14,4 @@
 
 **You must do at least 10 commits over the course of the exam.**
 
-You will be given 1 point for every commit.
+You will be given 1 point for every commit. _up to a maximum of 11 points._
