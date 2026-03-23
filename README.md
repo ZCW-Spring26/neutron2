@@ -8,7 +8,7 @@
 - `git push`
 - Edit the file suing vscode and record all 35 answers to your questions.
 - `git add .`
-- `git commit -m "quests 1 - n."` _replace N with how many questiosn you've answered.
+- `git commit -m "quests 1 - n."` _replace N with how many questions you've answered._
 - `git push`
 - do the commits and pushes throughout the exam.
 
